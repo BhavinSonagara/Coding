@@ -9,10 +9,14 @@ void solve()
 <<<<<<< HEAD
     cin >> n;
     int p,q,r;
+<<<<<<< HEAD
 =======
 >>>>>>> 3ba5fa2fa3e6dd329ec3f541ff08445d9c65530e
 =======
     cin >> n;
+>>>>>>> featurex
+=======
+    cin >> p >> q >> r;
 >>>>>>> featurex
 }
 int main() {
