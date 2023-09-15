@@ -6,10 +6,14 @@ void solve()
 {
     int n;
 <<<<<<< HEAD
+<<<<<<< HEAD
     cin >> n;
     int p,q,r;
 =======
 >>>>>>> 3ba5fa2fa3e6dd329ec3f541ff08445d9c65530e
+=======
+    cin >> n;
+>>>>>>> featurex
 }
 int main() {
     ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
