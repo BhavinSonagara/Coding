@@ -10,6 +10,8 @@ int maxsum(int arr1[], int arr2[], int start1, int end1, int start2, int end2, i
 	// Base case
 
 	// we required some chnage on this pogram so verify it.
+	// ok i do necessary change .
+	//thank you for your guidence
 	if (n == 0)
 		return max_sum;
    /// cout << n << " ";
