@@ -7,28 +7,7 @@ using namespace std;
 // Function to return maximum sum
 int maxsum(int arr1[], int arr2[], int start1, int end1, int start2, int end2, int n1, int n2,int n,int max_sum)
 {
-	// Base case
-
-	// we required some chnage on this pogram so verify it.
-	// ok i do necessary change .
-	//thank you for your guidence
-	// ok i do necessary change .
-	//thank you for your guidence
-	// ok i do necessary change .
-	//thank you for your guidence
-
-	//thank you for your guidence
-	// ok i do necessary change .
-	//thank you for your guidence
-
-	//thank you for your guidence
-	// ok i do necessary change .
-	//thank you for your guidence
-
-
-	//thank you for your guidence
-	// ok i do necessary change .
-	//thank you for your guidence
+	
 	if (n == 0)
 		return max_sum;
    /// cout << n << " ";
